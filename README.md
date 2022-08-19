@@ -1,7 +1,7 @@
-# Alchemy's RoadToWeb3
 # Week 2: How to Build "Buy Me a Coffee" DeFi dapp
+# Alchemy's RoadToWeb3 
 
-In this tutorial, you're going to learn how to develop and deploy a decentralized "Buy Me a Coffee" smart contract that allows visitors to send you (fake) ETH as tips and leave nice messages, using Alchemy, Hardhat, Ethers.js, and Ethereum Goerli.
+In this project, a decentralized smart contract "Buy me a coffee" was implemented that allows visitors to send you (fake) ETH as tips and leave nice messages, using Alchemy, Hardhat, Ethers.js and Ethereum Goerli.
 
 Try running some of the following tasks:
 
